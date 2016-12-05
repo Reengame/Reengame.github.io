@@ -61,7 +61,7 @@ img {
 	border-radius: 20px; 
 }
 
-"1 страничка"
+"1 Г±ГІГ°Г Г­ГЁГ·ГЄГ "
 .wrapperContainer {
 	background:#cce6ff;  
 }
@@ -109,7 +109,7 @@ img {
 	float:center;
 	text-align:center;
 }
-/*******меню*******/
+/*******Г¬ГҐГ­Гѕ*******/
 nav {
 	background:#331a00;
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 1);
@@ -132,7 +132,7 @@ nav li a {
 nav li a:hover {
 	color:#ffffb3;
 	text-decoration:none;
-	font-size:15.5px;
+	font-size:15.8px;
 }
 nav .active a {
 	color:#ffffb3;
